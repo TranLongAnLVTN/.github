@@ -16,19 +16,6 @@ thông tin về nhà sản xuất sản phẩm, các giai đoạn sản xuất v
 các thông tin sản phẩm theo từng giai đoạn để lưu trữ trên mạng Blockchain. Thông qua thông tin
 này để phục vụ nhu cầu truy xuất nguồn gốc sản phẩm cho người tiêu dùng.
 
-## Mô hình hoạt động
-Admin work flow:<br />
-<img alt="Admin work flow" src="https://github.com/TranLongAnLVTN/resource/blob/main/workflow/admin/main.png?raw=true" width="800">
-
-Producer work flow:<br />
-<img alt="Producer main work flow" src="https://github.com/TranLongAnLVTN/resource/blob/main/workflow/producer/main.png?raw=true" width="800">
-<img alt="Producer account work flow" src="https://github.com/TranLongAnLVTN/resource/blob/main/workflow/producer/account.png?raw=true" width="800">
-<img alt="Producer product work flow" src="https://github.com/TranLongAnLVTN/resource/blob/main/workflow/producer/product.png?raw=true" width="800">
-<img alt="Producer contact work flow" src="https://github.com/TranLongAnLVTN/resource/blob/main/workflow/producer/contact.png?raw=true" width="800">
-
-Customer work flow:<br />
-<img alt="Customer work flow" src="https://github.com/TranLongAnLVTN/resource/blob/main/workflow/customer/main.png?raw=true" width="800">
-
-## Usecase Diagram
-Main usecase:<br />
-<img alt="Main usecase" src="https://github.com/TranLongAnLVTN/resource/blob/main/usecase/main.png?raw=true" width="800">
+## Links
+- Github: [https://github.com/TranLongAnLVTN](https://github.com/TranLongAnLVTN)
+- Latex Report: [https://www.overleaf.com/read/yzfwkdjnwwdt](https://www.overleaf.com/read/yzfwkdjnwwdt)
